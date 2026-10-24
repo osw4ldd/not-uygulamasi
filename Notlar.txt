@@ -6,3 +6,10 @@ touch -> Dosya oluşturmayı sağlar.(touch file.txt)
 pwd -> O anda bulunduğunu dosyayı çıkartır. (pwd -> /home)
 mkdir -> Boş bir klasör oluşturmayı sağlar. (mkdir homework)
 
+Basit Git Komutlari
+
+git add -> Dosyayı commit için hazırlar.
+git commit -m -> Değişiklikleri kaydeder.(git commit -m "Notlar.txt güncellendi." )
+git init -> Projeyi başlatır.
+git log -> Commit geçmişini gösterir.
+git diff -> Son commit'ten sonraki değişimleri gösterir.
