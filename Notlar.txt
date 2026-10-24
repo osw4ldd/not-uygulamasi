@@ -1,0 +1,8 @@
+Basit Linux Terminal Kodları
+
+ls -> O anda bulunan dosyadaki içerikleri gösterir.
+cd -> O anda bulunan dosyadaki bir dosyanın içerisine girmeye yarar. (osman@osmanlinux:~$ cd /home -> osman@osmanlinux:/home$)
+touch -> Dosya oluşturmayı sağlar.(touch file.txt)
+pwd -> O anda bulunduğunu dosyayı çıkartır. (pwd -> /home)
+mkdir -> Boş bir klasör oluşturmayı sağlar. (mkdir homework)
+
