@@ -13,3 +13,5 @@ git commit -m -> Değişiklikleri kaydeder.(git commit -m "Notlar.txt güncellen
 git init -> Projeyi başlatır.
 git log -> Commit geçmişini gösterir.
 git diff -> Son commit'ten sonraki değişimleri gösterir.
+
+2.Hafta notları tamamlandı.
